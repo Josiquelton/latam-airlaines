@@ -1,0 +1,361 @@
+
+nav{
+    height: 80px;
+    border: 1px solid #00008B;
+    border-radius: 5px;
+    background-color: #00008B;
+    color: #FFFFFF;
+    
+}
+
+ .nav{
+    width: 800px;
+    height: 90px;
+    margin-left: 350px;
+    border: 1px solid #00008B;
+    border-radius: 5px;
+    background-color: #00008B;
+    padding-top:35px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+    .nav2{
+        padding: 100px;
+        display: flex;
+        justify-content: space-around;
+        
+    }
+    .nav2 span{
+        color: #00008B;
+        font-family: Arial;
+        font-size: 35px;
+        
+    }
+    .nav2:hover{
+
+    }
+
+    body{
+        background-color: #1E90FF;
+    }
+
+    .nav img{
+        width: 20%;
+        height: 20%;
+        margin-top: -15px;
+        margin-left: -270px;
+    }
+
+.list1 button{
+    border-radius: 5px;
+    
+}
+
+    a{
+        font-family: Arial;
+        font-size: 20px;
+        text-decoration: none;
+        color: #00008B;
+    }
+    a:hover{
+        color:#FFFFFF;
+    }
+    .list1 button:hover{
+        background-color: #6495ED;
+        
+    }
+
+    .list2 button{
+        border-radius: 5px;
+    }
+    .list2 button:hover{
+        background-color: #6495ED;
+    }
+    .list3 button{
+        border-radius: 5px;  
+    }
+    .list3 button:hover{
+        background-color: #6495ED;
+    }
+    /* trips*/
+   #main{
+    display: flex;
+    justify-content: space-around;
+    
+    
+   }
+    .trips{
+        width: 350px;
+        height: 350px;
+        background-color: #FFFFFF;
+        padding-top: 5px;
+        border: 3px solid #FFFFFF;
+        border-radius: 5px;
+        box-shadow: 20px 20px #1E90FF;
+        cursor: pointer;
+        
+    }
+    .trips h1{
+        color: #8A2BE2;
+        font-size: 30px;
+    }
+    .trips h4{
+        font-size: 15px;
+        padding-left: 10px;
+        margin-top: -20px;
+        color: black;
+    }
+        .value{
+            color: #00008B;
+            font-size: 15px;
+            list-style: none;
+        }
+
+        .text{
+            color: #00008B;
+            font-size: 15px;
+            list-style: none;
+        }
+    .trips h5{
+        width: 60px;
+        font-size: 15px;
+        padding-left: 4px;
+        margin-left: 10px;
+        border: 1px solid #8B008B;
+        border-radius: 5px;
+        background-color: #8B008B;
+        
+    }
+    
+    .trips:hover{
+        box-shadow: 20px 20px grey;
+        background-color: #DCDCDC;
+    }
+
+    .trips img{
+        width: 250px;
+        height: 120px;
+        padding-left: 0px;
+        border-radius: 10px;
+    }
+    /* trips2 */
+    .trips2{
+        width: 350px;
+        height: 350px;
+        background-color: #FFFFFF;
+        padding-top: 5px;
+        border: 3px solid #FFFFFF;
+        border-radius: 5px;
+        box-shadow: 20px 20px #1E90FF;
+        cursor: pointer;
+        
+    }
+    .trips2 h1{
+        color: #8A2BE2;
+        font-size: 30px;
+    }
+    .trips2 h4{
+        font-size: 15px;
+        padding-left: 10px;
+        margin-top: -20px;
+        color: black;
+    }
+        .value{
+            color: #00008B;
+            font-size: 15px;
+            list-style: none;
+        }
+
+        .text{
+            color: #00008B;
+            font-size: 15px;
+            list-style: none;
+        }
+    .trips2 h5{
+        width: 60px;
+        font-size: 15px;
+        padding-left: 4px;
+        margin-left: 10px;
+        border: 1px solid #8B008B;
+        border-radius: 5px;
+        background-color: #8B008B;
+        
+    }
+    .trips2:hover{
+        box-shadow: 20px 20px grey;
+        background-color: #DCDCDC;
+    }
+
+    .trips2 img{
+        width: 250px;
+        height: 120px;
+        padding-left: 0px;
+        border-radius: 10px;
+    }
+    /* trips3*/
+    .trips3{
+        width: 350px;
+        height: 350px;
+        background-color: #FFFFFF;
+        padding-top: 5px;
+        border: 3px solid #FFFFFF;
+        border-radius: 5px;
+        box-shadow: 20px 20px #1E90FF;
+        cursor: pointer;
+    }
+
+    .trips3 h1{
+        color: #8A2BE2;
+        font-size: 30px;
+    }
+    .trips3 h4{
+        font-size: 15px;
+        padding-left: 10px;
+        margin-top: -20px;
+        color: black;
+    }
+        .value{
+            color: #00008B;
+            font-size: 15px;
+            list-style: none;
+        }
+
+        .text{
+            color: #00008B;
+            font-size: 15px;
+            list-style: none;
+        }
+    .trips3 h5{
+        width: 60px;
+        font-size: 15px;
+        padding-left: 4px;
+        margin-left: 10px;
+        border: 1px solid #8B008B;
+        border-radius: 5px;
+        background-color: #8B008B;
+        
+    }
+    .trips3:hover{
+        box-shadow: 20px 20px grey;
+        background-color: #DCDCDC;
+    }
+
+    .trips3 img{
+        width: 250px;
+        height: 120px;
+        padding-left: 0px;
+        border-radius: 10px;
+    }
+
+/* footer */
+    footer{
+        margin-top: 200px;
+        display: flex;
+        justify-content: space-around;
+       
+    }
+
+    .textanimation{
+        font-family: Arial;
+        font-size: 25px;
+        margin-top: 200px;
+        margin-left: 200px;
+        
+    }
+/* textefect */
+    .textanimation span{
+        position: relative;
+    }
+    .textanimation span::before{
+        content: "";
+        color: #00008B;
+        animation: textefect 20s infinite;
+    }
+    .textanimation span::after{
+        position: absolute;
+        height: 100%;
+        border-left: 2px solid #8A2BE2;
+        right: -10px;
+        content: "";
+        opacity: 1;
+        animation: cursor 0.8s infinite;
+        width: calc(100% + 10px);
+        
+    }
+
+    @keyframes cursor {
+        0%{
+            opacity: 0;
+        }
+    }
+
+    @keyframes textefect {
+        0%,20%{
+            content: "em todo momento!";
+        }
+
+        0%,60%{
+            content: "Quando você escolhe voar conosco te";
+        }
+
+        0%,25%{
+            content: "acompanhamos em cada etapa.";
+        }
+
+       
+    }
+    
+    /* footerimg */
+    .footerimg{
+        width: 200px;
+        display: flex;
+        justify-content: space-around;
+            
+    }
+        .footerimg img{
+            width: 250px;
+            padding: 25px; 
+             
+    }
+    .information{
+        font-family: Arial;
+        font-size: 20px;
+        background-color: #FFFFFF;
+        border: 3px solid #FFFFFF;
+        border-radius: 5px;
+        display: flex;
+        justify-content: space-around;
+        
+    }
+    .information li{
+            list-style: none;
+            padding-top: 40px;
+            
+            
+                
+    }
+
+    .information a{
+        color: #191970;
+    }
+    .information a:hover{
+        color: #1E90FF;
+    }
+    
+    .plane img{
+       width: 400px;
+       height: 120px;
+       margin-top: 65px;
+       margin-left: -30px;
+       border-radius: 10px;
+       
+    }
+
+    .plane h1{
+        color: #191970;
+    }
+
+    
